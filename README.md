@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧪 OrangeHRM Test Automation Project
 
 Automated test framework for **OrangeHRM** using **Robot Framework** and **Selenium**.  
@@ -49,3 +50,6 @@ PIM: Add employee & verify data
 Recruitment: Create vacancy & add candidate
 
 Authentication: Login & logout
+=======
+# OrangeHRM
+>>>>>>> f086185f1943cf7aa7086fc4767383060bf7608f
